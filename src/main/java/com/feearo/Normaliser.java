@@ -7,6 +7,7 @@ public class Normaliser {
     private final List<String> normalizedTitles = Arrays.asList("Architect", "Software engineer", "Quantity surveyor", "Accountant");
     
     public Normaliser() {
+        // this is constructor.
     }
 
     public String normalise(String inputTitle) {
